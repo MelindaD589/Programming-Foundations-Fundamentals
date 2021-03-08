@@ -8,7 +8,8 @@ This is from a LinkedIn course
 - Basic statements and expressions
 - Working with numbers and strings
 - Writing conditional code
-- Increasing your efficiency with functions Working with comments
+- Increasing your efficiency with functions
+- Working with comments
 - Making decisions in code
 - Troubleshooting errors
 - Learning about other languages
