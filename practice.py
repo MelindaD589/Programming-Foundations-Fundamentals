@@ -3,6 +3,7 @@
 print("Hello world!")
 
 # Chapter 2
+
 # Exercise 1
 
 name = input("Hi, what's your name? ")
@@ -30,5 +31,6 @@ print("Hello world")
 # semantic error
 name = "Alice"
 print("Hello name")
+
 
 
